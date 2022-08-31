@@ -1,2 +1,2 @@
-Site pessoal para trabalho de faculdade utilizando html, javacrip e css
+Site pessoal para trabalho de faculdade utilizando html, javascrip e css
 
